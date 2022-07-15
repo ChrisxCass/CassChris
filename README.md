@@ -1,4 +1,4 @@
-- 👋 Hola, soy @CassChris 
+- 👋 Hola, soy Christian Casafranca @CassChris 
 - 👀 Me interesa la Programación y el Desarrollo web.
 - 🌱 Actualmente estoy aprendiendo JS, React y NodeJS, para lograr convertirme un un desarrrollador web Full-Stack.
 - 💞️ Estoy buscando colaborar en Proyectos de Dasarrollo WEB o afines.
