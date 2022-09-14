@@ -1,7 +1,7 @@
 - 👋 Hola, soy Christian Casafranca @CassChris 
 - 👨🏾‍💻 Mi portafolio web: https://casschris.github.io/portfolio/
 - 👀 Me interesa la Programación y el Desarrollo web.
-- 🌱 Actualmente estoy aprendiendo React y NodeJS, para lograr convertirme un un desarrrollador web Full-Stack.
+- 🌱 Actualmente estoy aprendiendo React, NodeJS y MongoDB.
 - 💞️ Estoy buscando colaborar en Proyectos de Dasarrollo WEB o afines.
 - 📫 Como contactarme: christiancasafrancarocha@gmail.com
 
