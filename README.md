@@ -1,7 +1,7 @@
 - 👋 Hola, soy Christian Casafranca @CassChris 
 - 👨🏾‍💻 Mi portafolio web: https://portafolio-casschris.netlify.app/
 - 👀 Me interesa la Programación y el Desarrollo web.
-- 🌱 Actualmente estoy aprendiendo React, NodeJS y MongoDB.
+- 🌱 Actualmente estoy aprendiendo VueJS, Laravel, React, NodeJS y MongoDB.
 - 💞️ Estoy buscando colaborar en Proyectos de Dasarrollo WEB o afines.
 - 📫 Como contactarme: christiancasafrancarocha@gmail.com
 
